@@ -20,8 +20,11 @@ Download from https://www.postman.com/downloads/ and install postman to test all
 ```
  node-mongoDB
     ├── controllers                   # Business logic
+      ├──product.controller.js
     ├── models                        # Model 
+      ├──product.model.js
     ├── routes                        # contain routes for all end points
+      ├──product.routes.js
     ├── app.js                        # Server configurations code
     ├── package.json                  # All dependencies
     ├── package-lock.json
