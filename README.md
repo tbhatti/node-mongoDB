@@ -17,7 +17,7 @@ Download from https://www.postman.com/downloads/ and install postman to test all
 ### DB name: mydb, table name: products, all CRUD operations are performed in node.js
 
 ### A typical top-level directory layout
-
+```
  node-mongoDB
     ├── controllers                   # Business logic
     ├── models                        # Model 
@@ -26,7 +26,7 @@ Download from https://www.postman.com/downloads/ and install postman to test all
     ├── package.json                  # All dependencies
     ├── package-lock.json
     └── README.md
-    
+  ```  
 ## Dependencies
 Run following command to install dependencies
 ```bash
